@@ -1,16 +1,17 @@
 Online Randomizer - Offline
 ===
 This repository is a probably unsanctioned fork of Sanqui's online randomizer.
-I spoke on twitter once about adding a feature. They told me where the repository was. They also didn't say no I can;t add the feature, but they didn't say yes. Haven't gotten ahold of them since.
+I spoke on twitter once about adding a feature. They told me where the repository was. They also didn't say no I can't add the feature, nor did they say yes I could. Haven't gotten ahold of them since.
 Additionally, I have no idea who the original artists are, and I didn't find much info on who they were. I know one is EndlessBeat, but I only know of them.
 So this is the unauthorized offline fork. I definitely violate Sanqui's license term #2. But by running offline, it technically does not violate license term #1.
-If I get asked to remove this, I will. And I will try to find the other artists in the meantime. If you are one and are okay with giving me permission or want you're removed, send me a message.
+If I get asked to remove this, I will. And I will try to find the other artists in the meantime. If you are one and are okay with giving me permission or want your sprites removed, send me a message.
 
 What Can I expect?
 ---
 Not a whole lot to be honest.
 This is a project fueled by one purpose - allow me to play through Gen 1 with Dedenne as my starter. currently, the randomizer has no feature to choose your starter.
-As a side effect of my inability to host it. It should also get an offline functionality. Or a facsimile thereof. It has 5% more windows support than it did before, via the convert_sprites.bat file.
+As a side effect of my inability to host it it should also get an offline functionality, or a facsimile thereof. It has 5% more windows support than it did before, via the convert_sprites.bat file.
+
 How do I use it?
 ---
 It's not really ready yet. But here's the beginning.

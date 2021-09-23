@@ -1,3 +1,32 @@
+Online Randomizer - Offline
+===
+This repository is a probably unsanctioned fork of Sanqui's online randomizer.
+I spoke on twitter once about adding a feature. They told me where the repository was. They also didn't say no I can;t add the feature, but they didn't say yes. Haven't gotten ahold of them since.
+Additionally, I have no idea who the original artists are, and I didn't find much info on who they were. I know one is EndlessBeat, but I only know of them.
+So this is the unauthorized offline fork. I definitely violate Sanqui's license term #2. But by running offline, it technically does not violate license term #1.
+If I get asked to remove this, I will. And I will try to find the other artists in the meantime. If you are one and are okay with giving me permission or want you're removed, send me a message.
+
+What Can I expect?
+---
+Not a whole lot to be honest.
+This is a project fueled by one purpose - allow me to play through Gen 1 with Dedenne as my starter. currently, the randomizer has no feature to choose your starter.
+As a side effect of my inability to host it. It should also get an offline functionality. Or a facsimile thereof. It has 5% more windows support than it did before, via the convert_sprites.bat file.
+How do I use it?
+---
+It's not really ready yet. But here's the beginning.
+Download this entire repository as a zip (or use git if you're so inclined) and extract it to a nice folder, like "online randomizer offline."
+You'll need to run convert_sprites.bat (assuming you are on Windows.) This requires two dependencies: imagemagick, and wget.
+Download wget from https://eternallybored.org/misc/wget/ (the exe version) place it in the root of your folder with the convert_sprites file.
+download the portable zip of imagemagick for windows (I used the 64 bit 16bpp version) copy all the files in that zip file into the "imagemagick" folder.
+run convert_sprites.bat you should have 3 additional folders now.
+
+This is as far as I've gotten.
+
+Last Notes
+---
+I'm kinda burnt out all the time from the world. Don't expect and massive grandiose changes. Hoenstly surprised I fixed any bugs. I don't plan on learning how to update this to the latest pokered or rgbds. I'm kinda intense so I might throw myself into it eventually, but life is too short. I just want my cute mouse. Also I probably won't be on the Discord, got burned out there too. Life kinda sucks that way.
+I've kept the original blurb from Sanqui's README below, as I do not think it should be removed. They did the major work, alongside the artists, without them we would have nothing. It's honestly a far out accomplishment that deserves more recognition. If you use this, go thank them, not me.
+
 randomizer
 ===
 Central repository for Sanqui's Online randomizer, to-be randomized.games.

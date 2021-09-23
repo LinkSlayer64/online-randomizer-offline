@@ -1,6 +1,10 @@
-\backsprites
-\backsprites_
-\sprites
-\imagemagick
-\bp
-.\wget.exe
+/backsprites
+/backsprites_
+/sprites
+/imagemagick/*
+/bp
+/wget.exe
+__pycache__/
+backsprites.png
+sprites.png
+!imagemagick/.keep
